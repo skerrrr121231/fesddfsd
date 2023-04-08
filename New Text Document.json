@@ -1,0 +1,13 @@
+{
+   "name":"Recep İvedik",
+   "version":1,
+   "url":null,
+   "images":[
+      "https://www.mediafire.com/file/qi683b5ddvzzxxo/image-removebg-preview.png"
+   ],
+   "jumpscare":"https://www.mediafire.com/file/qi683b5ddvzzxxo/image-removebg-preview.png",
+   "sounds":[
+      "https://github.com/byCooler/nbv2Data/raw/main/Nextbots/Official%20Presets/Juggler/Default_S.mp3"
+   ],
+   "jumpscareAudio":"https://github.com/byCooler/nbv2Data/raw/main/Nextbots/Official%20Presets/Juggler/Default_S.mp3"
+}
